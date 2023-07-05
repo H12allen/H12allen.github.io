@@ -1,0 +1,28 @@
+body{
+font-family: 'Outfit', sans-serif;
+background-color:hsl(212, 45%, 89%);
+text-align:center;
+}
+.main{
+background-color:white;
+width :300px;
+border-radius:10px;
+margin-top:8%;
+margin-left:auto;
+margin-right:auto;
+}
+img{
+height:265px;
+border-radius:8px;
+margin-top: 15px;
+}
+p{
+color:hsl(220, 15%, 55%);
+font-size: 15px;
+margin-top: -8px;
+padding-bottom:50px;
+}
+h3{
+color: hsl(218, 44%, 22%);
+font-weight: 700;
+}
